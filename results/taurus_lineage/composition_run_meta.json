@@ -1,0 +1,7 @@
+{
+  "baseline_filter": "Treatment == 'Pre' and Inflammation_score > 6.5",
+  "statistical_unit": "patient",
+  "min_group_size": 3,
+  "min_mean_proportion_for_state": 0.02,
+  "note": "cross-lineage proxies use the three downloaded lineage objects only; myeloid share is relative to myeloid+fibperi+epithelial, not all cells."
+}

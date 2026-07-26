@@ -1,0 +1,18 @@
+{
+  "h5ad": "myeloid_final.h5ad",
+  "module_genes_used": [
+    "IL1B",
+    "TNF",
+    "CXCL8",
+    "SPP1",
+    "OSM",
+    "IL1RN",
+    "CCL3",
+    "CCL4",
+    "NFKBIA"
+  ],
+  "module_genes_missing": [],
+  "baseline_filter": "Treatment == 'Pre' and Inflammation_score > 6.5",
+  "min_cells_per_sample_state": 10,
+  "n_result_rows": 15
+}
