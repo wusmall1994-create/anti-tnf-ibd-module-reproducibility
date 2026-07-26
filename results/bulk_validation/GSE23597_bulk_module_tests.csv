@@ -1,0 +1,5 @@
+comparison,module,n_responder,n_non_responder,median_responder,median_non_responder,delta_responder_minus_non,p_value
+IFX_W0_wk8_responder_vs_non_responder,myeloid_inflammation,25,7,1998.6668792125,3195.46955065,-1196.8026714375003,0.04302857876272781
+IFX_W0_wk8_responder_vs_non_responder,epithelial_ifn_damage,25,7,5933.0167013888895,7303.664565166667,-1370.6478637777773,0.04302857876272781
+IFX_W0_wk8_responder_vs_non_responder,epithelial_barrier_maturity,25,7,11618.3147488125,9521.9080206875,2096.406728124999,0.5616318701691337
+IFX_W0_wk8_responder_vs_non_responder,stromal_fibroinflammatory,25,7,2743.679755268181,4151.951653846537,-1408.2718985783558,0.1610597720163905

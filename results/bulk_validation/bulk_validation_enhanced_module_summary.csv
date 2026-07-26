@@ -1,0 +1,5 @@
+module,n_comparisons,n_lower_in_responder,n_higher_in_responder,n_nominal,n_fdr_q_lt_0_10,median_cliffs_delta,median_delta
+epithelial_barrier_maturity,3,0,3,0,1,0.38095238095238093,1570.7874999999995
+epithelial_ifn_damage,3,3,0,1,1,-0.46875,-730.802777777779
+myeloid_inflammation,3,3,0,3,3,-0.640625,-952.01625
+stromal_fibroinflammatory,3,3,0,2,2,-0.515625,-644.578181818182

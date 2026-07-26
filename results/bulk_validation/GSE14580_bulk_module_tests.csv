@@ -1,0 +1,9 @@
+comparison,tissue,disease,module,n_responder,n_non_responder,median_responder,median_non_responder,delta_responder_minus_non,p_value
+pretreatment_responder_vs_non_responder,Colon,Control,myeloid_inflammation,0,0,,,,
+pretreatment_responder_vs_non_responder,Colon,Control,epithelial_ifn_damage,0,0,,,,
+pretreatment_responder_vs_non_responder,Colon,Control,epithelial_barrier_maturity,0,0,,,,
+pretreatment_responder_vs_non_responder,Colon,Control,stromal_fibroinflammatory,0,0,,,,
+pretreatment_responder_vs_non_responder,Colon,UC,myeloid_inflammation,8,16,464.165625,1075.3756250000001,-611.2100000000002,0.010744135390790393
+pretreatment_responder_vs_non_responder,Colon,UC,epithelial_ifn_damage,8,16,1511.8777777777777,2118.1055555555554,-606.2277777777776,0.07022982551317455
+pretreatment_responder_vs_non_responder,Colon,UC,epithelial_barrier_maturity,8,16,4612.878124999999,3769.6375,843.2406249999995,0.052314775157688065
+pretreatment_responder_vs_non_responder,Colon,UC,stromal_fibroinflammatory,8,16,438.9003246753248,867.4812987012986,-428.5809740259738,0.04482297738456037

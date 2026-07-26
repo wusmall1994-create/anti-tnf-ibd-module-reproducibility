@@ -1,0 +1,13 @@
+cohort,independent_status,module,n_responder,n_non_responder,median_delta,min_p,nominal_p_lt_0_05
+GSE14580,overlaps_GSE16879_UC_subset,epithelial_barrier_maturity,8,16,843.2406249999995,0.052314775157688,False
+GSE14580,overlaps_GSE16879_UC_subset,epithelial_ifn_damage,8,16,-606.2277777777776,0.0702298255131745,False
+GSE14580,overlaps_GSE16879_UC_subset,myeloid_inflammation,8,16,-611.2100000000002,0.0107441353907903,True
+GSE14580,overlaps_GSE16879_UC_subset,stromal_fibroinflammatory,8,16,-428.5809740259738,0.0448229773845603,True
+GSE16879,primary_bulk_validation,epithelial_barrier_maturity,12,16,843.2406249999995,0.052314775157688,False
+GSE16879,primary_bulk_validation,epithelial_ifn_damage,12,16,-606.2277777777776,0.0702298255131745,False
+GSE16879,primary_bulk_validation,myeloid_inflammation,12,16,-611.2100000000002,3.969199015638645e-05,True
+GSE16879,primary_bulk_validation,stromal_fibroinflammatory,12,16,-428.5809740259738,0.0017861395570373,True
+GSE23597,independent_bulk_validation,epithelial_barrier_maturity,25,7,2096.406728124999,0.5616318701691337,False
+GSE23597,independent_bulk_validation,epithelial_ifn_damage,25,7,-1370.6478637777773,0.0430285787627278,True
+GSE23597,independent_bulk_validation,myeloid_inflammation,25,7,-1196.8026714375003,0.0430285787627278,True
+GSE23597,independent_bulk_validation,stromal_fibroinflammatory,25,7,-1408.2718985783558,0.1610597720163905,False
