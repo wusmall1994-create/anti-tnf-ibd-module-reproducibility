@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this code or derived tables, please cite the associated manuscript and public source datasets."
+title: "Interpretable public-data validation of pretreatment mucosal modules associated with anti-TNF outcomes in inflammatory bowel disease"
+type: software
+authors:
+  - family-names: "Liang"
+    given-names: "Huadong"
+    affiliation: "Department of Gastroenterology, Longyan First Affiliated Hospital of Fujian Medical University"
+  - family-names: "Wu"
+    given-names: "Xiaoxin"
+    affiliation: "Department of Pathology, Longyan First Affiliated Hospital of Fujian Medical University"
+  - family-names: "Su"
+    given-names: "Xuemei"
+    affiliation: "Department of Gastroenterology, Longyan First Affiliated Hospital of Fujian Medical University"
+  - family-names: "Qiu"
+    given-names: "Rongjin"
+    affiliation: "Department of Gastroenterology, Longyan First Affiliated Hospital of Fujian Medical University"
+  - family-names: "Zheng"
+    given-names: "Fengxiang"
+    affiliation: "Department of Gastroenterology, Longyan First Affiliated Hospital of Fujian Medical University"
+repository-code: "https://github.com/wusmall1994-create/anti-tnf-ibd-module-reproducibility"
+version: "v1.0.0-submission"
+date-released: "2026-07-26"
+abstract: "Code and derived outputs for a public-database transcriptomic module-analysis study of pretreatment mucosal signatures associated with anti-TNF outcomes in inflammatory bowel disease."
+keywords:
+  - inflammatory bowel disease
+  - anti-TNF
+  - infliximab
+  - transcriptomics
+  - mucosal biomarkers
+  - public database
+  - gene modules
+license: "MIT"

@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "title": "Interpretable public-data validation of pretreatment mucosal modules associated with anti-TNF outcomes in inflammatory bowel disease",
+    "upload_type": "software",
+    "description": "Code and derived outputs for a public-database transcriptomic module-analysis study of pretreatment mucosal signatures associated with anti-TNF outcomes in inflammatory bowel disease. The archive includes analysis scripts, reproducibility documentation, selected derived result tables, figure outputs and supplementary tables. Large public raw archives are not included and should be obtained from the cited GEO/Zenodo source datasets.",
+    "creators": [
+      {
+        "name": "Liang, Huadong",
+        "affiliation": "Department of Gastroenterology, Longyan First Affiliated Hospital of Fujian Medical University"
+      },
+      {
+        "name": "Wu, Xiaoxin",
+        "affiliation": "Department of Pathology, Longyan First Affiliated Hospital of Fujian Medical University"
+      },
+      {
+        "name": "Su, Xuemei",
+        "affiliation": "Department of Gastroenterology, Longyan First Affiliated Hospital of Fujian Medical University"
+      },
+      {
+        "name": "Qiu, Rongjin",
+        "affiliation": "Department of Gastroenterology, Longyan First Affiliated Hospital of Fujian Medical University"
+      },
+      {
+        "name": "Zheng, Fengxiang",
+        "affiliation": "Department of Gastroenterology, Longyan First Affiliated Hospital of Fujian Medical University"
+      }
+    ],
+    "version": "v1.0.0-submission",
+    "keywords": [
+      "inflammatory bowel disease",
+      "anti-TNF",
+      "infliximab",
+      "transcriptomics",
+      "mucosal biomarkers",
+      "public database",
+      "gene modules",
+      "GEO",
+      "reproducible research"
+    ],
+    "license": "MIT",
+    "access_right": "open",
+    "related_identifiers": [
+      {
+        "identifier": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE282122",
+        "relation": "isSupplementTo",
+        "resource_type": "dataset"
+      },
+      {
+        "identifier": "https://doi.org/10.5281/zenodo.14007626",
+        "relation": "isSupplementTo",
+        "resource_type": "dataset"
+      },
+      {
+        "identifier": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE16879",
+        "relation": "isSupplementTo",
+        "resource_type": "dataset"
+      },
+      {
+        "identifier": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE23597",
+        "relation": "isSupplementTo",
+        "resource_type": "dataset"
+      },
+      {
+        "identifier": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE14580",
+        "relation": "isSupplementTo",
+        "resource_type": "dataset"
+      }
+    ]
+  }
+}
