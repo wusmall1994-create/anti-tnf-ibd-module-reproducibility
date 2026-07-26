@@ -1,0 +1,261 @@
+Disease,Patient,Remission_status,final_analysis,stromal_fibroinflammatory,n_cells
+CD,CD1,Non_Remission,ABCA8pos WNT2Bpos FOSlo fibroblast,3.6548774242401123,60.0
+CD,CD1,Non_Remission,C3hi RSPO3pos fibroblast,3.737882375717163,12.0
+CD,CD1,Non_Remission,CD74hi HLADRB1hi arterial pericyte,2.2974441051483154,19.0
+CD,CD1,Non_Remission,SOX6pos POSTNpos fibroblast,2.2527682781219482,11.0
+CD,CD10,Remission,ABCA8pos WNT2Bpos FOShi fibroblast,2.219914426301655,95.0
+CD,CD10,Remission,ABCA8pos WNT2Bpos FOSlo fibroblast,3.17373310553061,74.0
+CD,CD10,Remission,C3hi CCL19pos fibroblast,4.226931571960449,14.0
+CD,CD10,Remission,C3hi RSPO3pos fibroblast,3.87422513961792,47.0
+CD,CD10,Remission,CD74hi HLADRB1hi arterial pericyte,2.0700341246344824,110.0
+CD,CD10,Remission,Myofibroblast,2.3772358894348145,12.0
+CD,CD10,Remission,NOTCH3hi MYH11pos pericyte,0.9640946621480195,23.0
+CD,CD10,Remission,NOTCH3hi TNCint CCL19pos pericyte,2.042294979095459,12.0
+CD,CD10,Remission,NOTCH3hi TNClo pericyte,1.4399492591619492,96.0
+CD,CD10,Remission,SOX6pos POSTNpos fibroblast,2.024540901184082,44.0
+CD,CD11,Non_Remission,ABCA8pos WNT2Bpos FOShi fibroblast,2.311311960220337,27.0
+CD,CD11,Non_Remission,ABCA8pos WNT2Bpos FOSlo fibroblast,3.2229620933532717,100.0
+CD,CD11,Non_Remission,CD74hi HLADRB1hi arterial pericyte,1.2821807861328125,63.0
+CD,CD11,Non_Remission,Myofibroblast,2.5858470743352715,22.0
+CD,CD11,Non_Remission,NOTCH3hi TNClo pericyte,1.2934768199920654,22.0
+CD,CD11,Non_Remission,SOX6pos POSTNpos NRG1hi NPYpos fibroblast,1.4603968858718872,14.0
+CD,CD11,Non_Remission,SOX6pos POSTNpos fibroblast,1.4401214122772217,46.0
+CD,CD12,Non_Remission,NOTCH3hi TNClo pericyte,1.757521629333496,14.0
+CD,CD13,Remission,ABCA8pos WNT2Bpos FOShi fibroblast,2.9402760538046415,383.0
+CD,CD13,Remission,ABCA8pos WNT2Bpos FOSlo fibroblast,3.6577822307446093,597.0
+CD,CD13,Remission,C3hi CCL19pos fibroblast,3.976300118016262,51.0
+CD,CD13,Remission,C3hi RSPO3pos fibroblast,4.110337605498766,213.0
+CD,CD13,Remission,CD74hi HLADRB1hi arterial pericyte,2.444178092328808,237.0
+CD,CD13,Remission,Myofibroblast,3.2506890770507186,146.0
+CD,CD13,Remission,NOTCH3hi MYH11pos pericyte,1.1995354511941125,129.0
+CD,CD13,Remission,NOTCH3hi TNChi LOXL2pos pericyte,2.444999698638916,125.0
+CD,CD13,Remission,NOTCH3hi TNCint CCL19pos pericyte,2.4188403772271196,92.0
+CD,CD13,Remission,NOTCH3hi TNClo pericyte,1.8866694891000095,395.0
+CD,CD13,Remission,SOX6pos POSTNpos NRG1hi NPYpos fibroblast,3.085732652590825,52.0
+CD,CD13,Remission,SOX6pos POSTNpos fibroblast,2.8196862012689765,275.0
+CD,CD13,Remission,THY1pos FAPpos PDPNpos fibroblast,3.8858125333128304,116.0
+CD,CD14,Remission,ABCA8pos WNT2Bpos FOShi fibroblast,2.062048775809152,84.0
+CD,CD14,Remission,ABCA8pos WNT2Bpos FOSlo fibroblast,3.0520222994385575,189.0
+CD,CD14,Remission,CD74hi HLADRB1hi arterial pericyte,2.24790884008502,101.0
+CD,CD14,Remission,Myofibroblast,2.6502087116241455,22.0
+CD,CD14,Remission,NOTCH3hi MYH11pos pericyte,1.3491480350494385,11.0
+CD,CD14,Remission,NOTCH3hi TNChi LOXL2pos pericyte,2.2924238046010337,42.0
+CD,CD14,Remission,NOTCH3hi TNCint CCL19pos pericyte,2.6111185557266314,14.0
+CD,CD14,Remission,NOTCH3hi TNClo pericyte,1.6827200480869837,84.0
+CD,CD14,Remission,SOX6pos POSTNpos NRG1hi NPYpos fibroblast,2.27616024017334,12.0
+CD,CD14,Remission,SOX6pos POSTNpos fibroblast,2.177755882573682,43.0
+CD,CD14,Remission,THY1pos FAPpos PDPNpos fibroblast,3.3611695766448975,13.0
+CD,CD15,Remission,CD74hi HLADRB1hi arterial pericyte,2.4895360469818115,11.0
+CD,CD15,Remission,NOTCH3hi TNClo pericyte,1.7541364431381226,18.0
+CD,CD3,Non_Remission,ABCA8pos WNT2Bpos FOShi fibroblast,2.9737811618381076,63.0
+CD,CD3,Non_Remission,ABCA8pos WNT2Bpos FOSlo fibroblast,3.4036335310490013,139.0
+CD,CD3,Non_Remission,C3hi RSPO3pos fibroblast,3.9627175331135723,55.0
+CD,CD3,Non_Remission,CD74hi HLADRB1hi arterial pericyte,1.8742477782070637,32.0
+CD,CD3,Non_Remission,NOTCH3hi MYH11pos pericyte,1.5908337831497192,11.0
+CD,CD3,Non_Remission,NOTCH3hi TNChi LOXL2pos pericyte,2.5908548839689697,41.0
+CD,CD3,Non_Remission,NOTCH3hi TNClo pericyte,1.590545317222332,87.0
+CD,CD3,Non_Remission,SOX6pos POSTNpos fibroblast,1.934665322303772,30.0
+CD,CD3,Non_Remission,THY1pos FAPpos PDPNpos fibroblast,3.782618284225464,48.0
+CD,CD4,Remission,CD74hi HLADRB1hi arterial pericyte,2.3349690437316895,10.0
+CD,CD4,Remission,NOTCH3hi TNClo pericyte,1.6693091843579266,37.0
+CD,CD5,Remission,ABCA8pos WNT2Bpos FOShi fibroblast,3.0054442617628307,171.0
+CD,CD5,Remission,ABCA8pos WNT2Bpos FOSlo fibroblast,3.485784185301397,194.0
+CD,CD5,Remission,C3hi CCL19pos fibroblast,3.5903495562611455,23.0
+CD,CD5,Remission,C3hi RSPO3pos fibroblast,3.8795315164034485,61.0
+CD,CD5,Remission,CD74hi HLADRB1hi arterial pericyte,2.088507894708329,119.0
+CD,CD5,Remission,Myofibroblast,2.8625415563583374,32.0
+CD,CD5,Remission,NOTCH3hi MYH11pos pericyte,0.37853556871414185,83.0
+CD,CD5,Remission,NOTCH3hi TNClo pericyte,1.3703272746781172,59.0
+CD,CD5,Remission,SOX6pos POSTNpos NRG1hi NPYpos fibroblast,2.18817675113678,44.0
+CD,CD5,Remission,SOX6pos POSTNpos fibroblast,1.8077193444751831,332.0
+CD,CD6,Remission,ABCA8pos WNT2Bpos FOSlo fibroblast,2.9453306198120117,26.0
+CD,CD6,Remission,CD74hi HLADRB1hi arterial pericyte,2.2285594940185547,51.0
+CD,CD6,Remission,NOTCH3hi TNCint CCL19pos pericyte,2.3562657833099365,15.0
+CD,CD6,Remission,NOTCH3hi TNClo pericyte,1.7119942903518677,46.0
+CD,CD7,Remission,ABCA8pos WNT2Bpos FOShi fibroblast,2.521049737930298,20.0
+CD,CD7,Remission,ABCA8pos WNT2Bpos FOSlo fibroblast,3.285881519317627,63.0
+CD,CD7,Remission,C3hi RSPO3pos fibroblast,3.80077758202186,26.0
+CD,CD7,Remission,CD74hi HLADRB1hi arterial pericyte,2.5073142051696777,33.0
+CD,CD7,Remission,Myofibroblast,3.4464023113250732,15.0
+CD,CD7,Remission,NOTCH3hi MYH11pos pericyte,1.2042983770370483,14.0
+CD,CD7,Remission,NOTCH3hi TNChi LOXL2pos pericyte,2.5073142051696777,15.0
+CD,CD7,Remission,NOTCH3hi TNCint CCL19pos pericyte,2.5073142051696777,15.0
+CD,CD7,Remission,NOTCH3hi TNClo pericyte,1.880813717842102,28.0
+CD,CD7,Remission,SOX6pos POSTNpos NRG1hi NPYpos fibroblast,2.1571433544158936,28.0
+CD,CD7,Remission,SOX6pos POSTNpos fibroblast,2.293607999538553,87.0
+CD,CD8,Remission,ABCA8pos WNT2Bpos FOShi fibroblast,2.1066594307485556,30.0
+CD,CD8,Remission,ABCA8pos WNT2Bpos FOSlo fibroblast,3.256972312927246,66.0
+CD,CD8,Remission,C3hi RSPO3pos fibroblast,3.865333318710327,11.0
+CD,CD8,Remission,CD74hi HLADRB1hi arterial pericyte,1.7732936143875122,14.0
+CD,CD8,Remission,NOTCH3hi TNClo pericyte,1.815955622291565,21.0
+CD,CD8,Remission,SOX6pos POSTNpos fibroblast,2.6045775413513184,16.0
+CD,CD9,Remission,ABCA8pos WNT2Bpos FOShi fibroblast,2.714765169182602,49.0
+CD,CD9,Remission,ABCA8pos WNT2Bpos FOSlo fibroblast,3.4284369150797525,69.0
+CD,CD9,Remission,C3hi RSPO3pos fibroblast,3.9233994483947754,20.0
+CD,CD9,Remission,CD74hi HLADRB1hi arterial pericyte,2.4478158950805664,34.0
+CD,CD9,Remission,Myofibroblast,2.8967926502227783,17.0
+CD,CD9,Remission,NOTCH3hi MYH11pos pericyte,0.6145961880683899,26.0
+CD,CD9,Remission,NOTCH3hi TNClo pericyte,1.6839439868927002,15.0
+CD,CD9,Remission,SOX6pos POSTNpos NRG1hi NPYpos fibroblast,2.820477105677128,32.0
+CD,CD9,Remission,SOX6pos POSTNpos fibroblast,2.6246528589364253,66.0
+UC,UC1,Non_Remission,ABCA8pos WNT2Bpos FOShi fibroblast,3.0631847381591797,65.0
+UC,UC1,Non_Remission,ABCA8pos WNT2Bpos FOSlo fibroblast,3.4084436893463135,86.0
+UC,UC1,Non_Remission,C3hi CCL19pos fibroblast,3.5990233421325684,11.0
+UC,UC1,Non_Remission,C3hi RSPO3pos fibroblast,3.923110246658325,14.0
+UC,UC1,Non_Remission,CD74hi HLADRB1hi arterial pericyte,2.1602067947387695,16.0
+UC,UC1,Non_Remission,Myofibroblast,3.162410020828247,22.0
+UC,UC1,Non_Remission,NOTCH3hi TNClo pericyte,1.9115501642227173,32.0
+UC,UC1,Non_Remission,SOX6pos POSTNpos NRG1hi NPYpos fibroblast,3.3101181983947754,22.0
+UC,UC1,Non_Remission,SOX6pos POSTNpos fibroblast,3.010495662689209,92.0
+UC,UC1,Non_Remission,THY1pos FAPpos PDPNpos fibroblast,3.412782669067383,16.0
+UC,UC10,Remission,ABCA8pos WNT2Bpos FOShi fibroblast,2.2986126532320115,61.0
+UC,UC10,Remission,ABCA8pos WNT2Bpos FOSlo fibroblast,2.9395854473114014,27.0
+UC,UC10,Remission,CD74hi HLADRB1hi arterial pericyte,1.9705485928733393,265.0
+UC,UC10,Remission,Myofibroblast,2.9124436378479004,11.0
+UC,UC10,Remission,NOTCH3hi MYH11pos pericyte,0.5640861480983336,67.0
+UC,UC10,Remission,NOTCH3hi TNChi LOXL2pos pericyte,1.8658174025385004,38.0
+UC,UC10,Remission,NOTCH3hi TNCint CCL19pos pericyte,1.679182835987636,35.0
+UC,UC10,Remission,NOTCH3hi TNClo pericyte,1.5924039489344546,190.0
+UC,UC10,Remission,SOX6pos POSTNpos NRG1hi NPYpos fibroblast,2.892418110812152,27.0
+UC,UC10,Remission,SOX6pos POSTNpos fibroblast,2.878937252497269,118.0
+UC,UC10,Remission,THY1pos FAPpos PDPNpos fibroblast,3.2727968131794647,34.0
+UC,UC11,Remission,ABCA8pos WNT2Bpos FOShi fibroblast,2.9798971566577888,298.0
+UC,UC11,Remission,ABCA8pos WNT2Bpos FOSlo fibroblast,3.3954286769116986,529.0
+UC,UC11,Remission,C3hi CCL19pos fibroblast,3.964196660939385,68.0
+UC,UC11,Remission,C3hi RSPO3pos fibroblast,3.7488510577094476,151.0
+UC,UC11,Remission,CD74hi HLADRB1hi arterial pericyte,2.3239166389812125,165.0
+UC,UC11,Remission,Myofibroblast,3.0209386199712753,112.0
+UC,UC11,Remission,NOTCH3hi MYH11pos pericyte,0.8526782206634977,67.0
+UC,UC11,Remission,NOTCH3hi TNChi LOXL2pos pericyte,2.320408821105957,43.0
+UC,UC11,Remission,NOTCH3hi TNCint CCL19pos pericyte,2.074846029281616,13.0
+UC,UC11,Remission,NOTCH3hi TNClo pericyte,1.8206939188142617,96.0
+UC,UC11,Remission,SOX6pos POSTNpos NRG1hi NPYpos fibroblast,2.621592092514038,75.0
+UC,UC11,Remission,SOX6pos POSTNpos fibroblast,2.186695782681729,235.0
+UC,UC11,Remission,THY1pos FAPpos PDPNpos fibroblast,3.676643133163452,51.0
+UC,UC14,Non_Remission,ABCA8pos WNT2Bpos FOShi fibroblast,3.514395236968994,17.0
+UC,UC14,Non_Remission,ABCA8pos WNT2Bpos FOSlo fibroblast,3.631499767303467,38.0
+UC,UC14,Non_Remission,C3hi RSPO3pos fibroblast,4.12310791015625,35.0
+UC,UC14,Non_Remission,CD74hi HLADRB1hi arterial pericyte,2.5239627361299407,15.0
+UC,UC14,Non_Remission,Myofibroblast,3.454611301422119,25.0
+UC,UC14,Non_Remission,NOTCH3hi TNClo pericyte,1.7473995685577393,14.0
+UC,UC14,Non_Remission,SOX6pos POSTNpos fibroblast,3.0682554244995117,41.0
+UC,UC14,Non_Remission,THY1pos FAPpos PDPNpos fibroblast,4.004330158233643,10.0
+UC,UC16,Non_Remission,ABCA8pos WNT2Bpos FOShi fibroblast,2.271261692047119,14.0
+UC,UC16,Non_Remission,ABCA8pos WNT2Bpos FOSlo fibroblast,3.3443689832882004,49.0
+UC,UC16,Non_Remission,C3hi RSPO3pos fibroblast,3.820067361684946,65.0
+UC,UC16,Non_Remission,CD74hi HLADRB1hi arterial pericyte,2.016725521042606,106.0
+UC,UC16,Non_Remission,NOTCH3hi TNChi LOXL2pos pericyte,1.5002139806747437,11.0
+UC,UC16,Non_Remission,NOTCH3hi TNCint CCL19pos pericyte,1.9736869525909424,50.0
+UC,UC16,Non_Remission,NOTCH3hi TNClo pericyte,1.4803602645271703,190.0
+UC,UC16,Non_Remission,SOX6pos POSTNpos fibroblast,2.1568596065044403,80.0
+UC,UC17,Remission,CD74hi HLADRB1hi arterial pericyte,2.5007654428482056,154.0
+UC,UC17,Remission,CD74hi HLADRB1hi venous pericyte,2.258816719055176,13.0
+UC,UC17,Remission,NOTCH3hi MYH11pos pericyte,1.153285916461501,86.0
+UC,UC17,Remission,NOTCH3hi TNChi LOXL2pos pericyte,2.2380680441856384,156.0
+UC,UC17,Remission,NOTCH3hi TNCint CCL19pos pericyte,2.052592767182217,93.0
+UC,UC17,Remission,NOTCH3hi TNClo pericyte,1.883618614650125,406.0
+UC,UC18,Non_Remission,CD74hi HLADRB1hi arterial pericyte,2.374455690383911,20.0
+UC,UC18,Non_Remission,NOTCH3hi TNClo pericyte,1.5181801319122314,17.0
+UC,UC2,Non_Remission,ABCA8pos WNT2Bpos FOShi fibroblast,1.8321430683135986,10.0
+UC,UC2,Non_Remission,ABCA8pos WNT2Bpos FOSlo fibroblast,2.8623249530792236,14.0
+UC,UC2,Non_Remission,CD74hi HLADRB1hi arterial pericyte,1.9967365264892578,86.0
+UC,UC2,Non_Remission,NOTCH3hi TNCint CCL19pos pericyte,2.098501682281494,14.0
+UC,UC2,Non_Remission,NOTCH3hi TNClo pericyte,1.5573323965072632,55.0
+UC,UC20,Non_Remission,CD74hi HLADRB1hi arterial pericyte,2.145426571369171,82.0
+UC,UC20,Non_Remission,NOTCH3hi MYH11pos pericyte,1.6494389772415161,27.0
+UC,UC20,Non_Remission,NOTCH3hi TNChi LOXL2pos pericyte,2.447055435516465,142.0
+UC,UC20,Non_Remission,NOTCH3hi TNCint CCL19pos pericyte,2.29512357711792,76.0
+UC,UC20,Non_Remission,NOTCH3hi TNClo pericyte,2.0358117545486256,314.0
+UC,UC22,Non_Remission,ABCA8pos WNT2Bpos FOShi fibroblast,2.696126937866211,89.0
+UC,UC22,Non_Remission,ABCA8pos WNT2Bpos FOSlo fibroblast,3.3726277351379395,118.0
+UC,UC22,Non_Remission,C3hi RSPO3pos fibroblast,4.12310791015625,73.0
+UC,UC22,Non_Remission,CD74hi HLADRB1hi arterial pericyte,2.3984882831573486,82.0
+UC,UC22,Non_Remission,Myofibroblast,3.281981945037842,26.0
+UC,UC22,Non_Remission,NOTCH3hi MYH11pos pericyte,1.0466738939285278,90.0
+UC,UC22,Non_Remission,NOTCH3hi TNChi LOXL2pos pericyte,2.071087598800659,12.0
+UC,UC22,Non_Remission,NOTCH3hi TNCint CCL19pos pericyte,2.4493839740753174,11.0
+UC,UC22,Non_Remission,NOTCH3hi TNClo pericyte,1.6545660495758057,59.0
+UC,UC22,Non_Remission,SOX6pos POSTNpos NRG1hi NPYpos fibroblast,3.1232478618621826,46.0
+UC,UC22,Non_Remission,SOX6pos POSTNpos fibroblast,2.739251136779785,115.0
+UC,UC22,Non_Remission,THY1pos FAPpos PDPNpos fibroblast,3.646841526031494,22.0
+UC,UC3,Non_Remission,ABCA8pos WNT2Bpos FOShi fibroblast,2.6635358333587646,24.0
+UC,UC3,Non_Remission,ABCA8pos WNT2Bpos FOSlo fibroblast,3.363072633743286,35.0
+UC,UC3,Non_Remission,CD74hi HLADRB1hi arterial pericyte,2.307152032852173,22.0
+UC,UC3,Non_Remission,NOTCH3hi TNClo pericyte,1.7931976318359375,19.0
+UC,UC3,Non_Remission,SOX6pos POSTNpos NRG1hi NPYpos fibroblast,2.5653796195983887,16.0
+UC,UC3,Non_Remission,SOX6pos POSTNpos fibroblast,2.6542768478393555,47.0
+UC,UC4,Non_Remission,ABCA8pos WNT2Bpos FOShi fibroblast,2.4193384647368435,29.0
+UC,UC4,Non_Remission,ABCA8pos WNT2Bpos FOSlo fibroblast,2.8758835792541504,15.0
+UC,UC4,Non_Remission,C3hi RSPO3pos fibroblast,3.2920360565185547,10.0
+UC,UC4,Non_Remission,CD74hi HLADRB1hi arterial pericyte,2.20096755027771,103.0
+UC,UC4,Non_Remission,Myofibroblast,3.0768303871154785,15.0
+UC,UC4,Non_Remission,NOTCH3hi MYH11pos pericyte,1.3302382230758667,43.0
+UC,UC4,Non_Remission,NOTCH3hi TNChi LOXL2pos pericyte,2.570718288421631,81.0
+UC,UC4,Non_Remission,NOTCH3hi TNCint CCL19pos pericyte,2.3479557037353516,41.0
+UC,UC4,Non_Remission,NOTCH3hi TNClo pericyte,1.848978042602539,166.0
+UC,UC4,Non_Remission,THY1pos FAPpos PDPNpos fibroblast,3.4641480445861816,44.0
+UC,UC5,Remission,ABCA8pos WNT2Bpos FOShi fibroblast,3.100965919264828,83.0
+UC,UC5,Remission,ABCA8pos WNT2Bpos FOSlo fibroblast,3.180785766669682,140.0
+UC,UC5,Remission,C3hi CCL19pos fibroblast,4.071774482727051,16.0
+UC,UC5,Remission,C3hi RSPO3pos fibroblast,4.196755994449962,55.0
+UC,UC5,Remission,CD74hi HLADRB1hi arterial pericyte,2.38747203090928,184.0
+UC,UC5,Remission,CD74hi HLADRB1hi venous pericyte,2.4357147216796875,11.0
+UC,UC5,Remission,Myofibroblast,3.424789101390515,59.0
+UC,UC5,Remission,NOTCH3hi MYH11pos pericyte,0.7144337296485901,58.0
+UC,UC5,Remission,NOTCH3hi TNChi LOXL2pos pericyte,2.4247784181074663,165.0
+UC,UC5,Remission,NOTCH3hi TNCint CCL19pos pericyte,2.432989349170607,49.0
+UC,UC5,Remission,NOTCH3hi TNClo pericyte,1.9464790337106102,234.0
+UC,UC5,Remission,SOX6pos POSTNpos NRG1hi NPYpos fibroblast,3.398319866922167,54.0
+UC,UC5,Remission,SOX6pos POSTNpos fibroblast,3.08087863705375,66.0
+UC,UC5,Remission,THY1pos FAPpos PDPNpos fibroblast,3.914046434645957,94.0
+UC,UC6,Non_Remission,ABCA8pos WNT2Bpos FOShi fibroblast,3.5395078659057617,82.0
+UC,UC6,Non_Remission,ABCA8pos WNT2Bpos FOSlo fibroblast,3.4704813957214355,161.0
+UC,UC6,Non_Remission,C3hi CCL19pos fibroblast,3.951542854309082,19.0
+UC,UC6,Non_Remission,C3hi RSPO3pos fibroblast,4.056061744689941,20.0
+UC,UC6,Non_Remission,CD74hi HLADRB1hi arterial pericyte,2.4748384952545166,129.0
+UC,UC6,Non_Remission,Myofibroblast,3.335575580596909,99.0
+UC,UC6,Non_Remission,NOTCH3hi MYH11pos pericyte,0.9222409725189209,34.0
+UC,UC6,Non_Remission,NOTCH3hi TNChi LOXL2pos pericyte,2.3333380222320557,35.0
+UC,UC6,Non_Remission,NOTCH3hi TNCint CCL19pos pericyte,1.796404242515564,12.0
+UC,UC6,Non_Remission,NOTCH3hi TNClo pericyte,1.7967430353164673,82.0
+UC,UC6,Non_Remission,SOX6pos POSTNpos NRG1hi NPYpos fibroblast,3.0796406269073486,63.0
+UC,UC6,Non_Remission,SOX6pos POSTNpos fibroblast,3.074512243270874,126.0
+UC,UC6,Non_Remission,THY1pos FAPpos PDPNpos fibroblast,3.7672781944274902,49.0
+UC,UC7,Non_Remission,ABCA8pos WNT2Bpos FOShi fibroblast,2.7541768550872803,36.0
+UC,UC7,Non_Remission,ABCA8pos WNT2Bpos FOSlo fibroblast,3.207926034927368,25.0
+UC,UC7,Non_Remission,CD74hi HLADRB1hi arterial pericyte,2.5385751724243164,57.0
+UC,UC7,Non_Remission,Myofibroblast,3.364344358444214,24.0
+UC,UC7,Non_Remission,NOTCH3hi MYH11pos pericyte,0.8874896764755249,11.0
+UC,UC7,Non_Remission,NOTCH3hi TNCint CCL19pos pericyte,2.019073963165283,12.0
+UC,UC7,Non_Remission,NOTCH3hi TNClo pericyte,1.9512343406677246,37.0
+UC,UC7,Non_Remission,SOX6pos POSTNpos NRG1hi NPYpos fibroblast,3.221257448196411,21.0
+UC,UC7,Non_Remission,SOX6pos POSTNpos fibroblast,3.168105363845825,63.0
+UC,UC7,Non_Remission,THY1pos FAPpos PDPNpos fibroblast,3.3585257530212402,13.0
+UC,UC8,Non_Remission,ABCA8pos WNT2Bpos FOShi fibroblast,2.7925529396949123,402.0
+UC,UC8,Non_Remission,ABCA8pos WNT2Bpos FOSlo fibroblast,3.3866956877377716,793.0
+UC,UC8,Non_Remission,C3hi CCL19pos fibroblast,3.5402298511997348,62.0
+UC,UC8,Non_Remission,C3hi RSPO3pos fibroblast,3.6618601169782816,194.0
+UC,UC8,Non_Remission,CD74hi HLADRB1hi arterial pericyte,2.472646765626235,519.0
+UC,UC8,Non_Remission,CD74hi HLADRB1hi venous pericyte,2.8406718434958624,58.0
+UC,UC8,Non_Remission,Myofibroblast,3.189277893354913,238.0
+UC,UC8,Non_Remission,NOTCH3hi MYH11pos pericyte,0.9355915477781584,198.0
+UC,UC8,Non_Remission,NOTCH3hi TNChi LOXL2pos pericyte,2.3868344411642063,82.0
+UC,UC8,Non_Remission,NOTCH3hi TNCint CCL19pos pericyte,2.1301269714648905,52.0
+UC,UC8,Non_Remission,NOTCH3hi TNClo pericyte,1.6823175758928866,259.0
+UC,UC8,Non_Remission,SOX6pos POSTNpos NRG1hi NPYpos fibroblast,3.1655925638747937,264.0
+UC,UC8,Non_Remission,SOX6pos POSTNpos fibroblast,3.0936969807112242,467.0
+UC,UC8,Non_Remission,THY1pos FAPpos PDPNpos fibroblast,3.66088794880226,305.0
+UC,UC9,Non_Remission,ABCA8pos WNT2Bpos FOShi fibroblast,2.57139575612414,91.0
+UC,UC9,Non_Remission,ABCA8pos WNT2Bpos FOSlo fibroblast,3.2550928958000673,248.0
+UC,UC9,Non_Remission,C3hi CCL19pos fibroblast,3.4189043045043945,16.0
+UC,UC9,Non_Remission,C3hi RSPO3pos fibroblast,3.657077166571546,67.0
+UC,UC9,Non_Remission,CD74hi HLADRB1hi arterial pericyte,2.096660281930651,490.0
+UC,UC9,Non_Remission,CD74hi HLADRB1hi venous pericyte,2.1107735633850098,21.0
+UC,UC9,Non_Remission,Myofibroblast,3.159598267194137,103.0
+UC,UC9,Non_Remission,NOTCH3hi MYH11pos pericyte,0.7677212499583941,193.0
+UC,UC9,Non_Remission,NOTCH3hi TNChi LOXL2pos pericyte,2.2277015271317593,56.0
+UC,UC9,Non_Remission,NOTCH3hi TNCint CCL19pos pericyte,2.263153886795044,50.0
+UC,UC9,Non_Remission,NOTCH3hi TNClo pericyte,1.7885030799777195,237.0
+UC,UC9,Non_Remission,SOX6pos POSTNpos NRG1hi NPYpos fibroblast,2.9852220404381846,102.0
+UC,UC9,Non_Remission,SOX6pos POSTNpos fibroblast,2.9700419946414667,164.0
+UC,UC9,Non_Remission,THY1pos FAPpos PDPNpos fibroblast,3.635726101258222,51.0
