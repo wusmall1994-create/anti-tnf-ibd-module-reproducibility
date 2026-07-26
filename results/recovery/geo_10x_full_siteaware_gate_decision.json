@@ -1,0 +1,7 @@
+{
+  "label": "geo_10x_full_siteaware",
+  "tests": "results/recovery/geo_10x_full_siteaware_recovery_synchrony_tests.csv",
+  "decision": "WEAK_SIGNAL_NEEDS_FULL_AND_SENSITIVITY_CHECKS",
+  "rationale": "Some remission-favouring directions exist, but the pattern is not strong enough for a manuscript claim.",
+  "summary_csv": "results/recovery/geo_10x_full_siteaware_gate_summary.csv"
+}

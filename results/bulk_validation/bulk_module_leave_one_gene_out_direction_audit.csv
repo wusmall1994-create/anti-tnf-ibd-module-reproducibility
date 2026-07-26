@@ -1,0 +1,109 @@
+cohort,comparison_group,module,dropped_gene,primary_direction,loo_direction,direction_matches_primary,cliffs_delta_responder_vs_non,p_value
+GSE16879,Colon CD,myeloid_inflammation,IL1B,lower_in_responder,lower_in_responder,True,-0.9761904761904762,7.938398031277289e-05
+GSE16879,Colon UC,myeloid_inflammation,IL1B,lower_in_responder,lower_in_responder,True,-0.59375,0.019176826822539572
+GSE16879,Colon CD,myeloid_inflammation,TNF,lower_in_responder,lower_in_responder,True,-1.0,3.9691990156386444e-05
+GSE16879,Colon UC,myeloid_inflammation,TNF,lower_in_responder,lower_in_responder,True,-0.625,0.013120843649851593
+GSE16879,Colon CD,myeloid_inflammation,CXCL8,lower_in_responder,lower_in_responder,True,-0.9761904761904762,7.938398031277289e-05
+GSE16879,Colon UC,myeloid_inflammation,CXCL8,lower_in_responder,lower_in_responder,True,-0.59375,0.019176826822539572
+GSE16879,Colon CD,myeloid_inflammation,SPP1,lower_in_responder,lower_in_responder,True,-0.9761904761904762,7.938398031277289e-05
+GSE16879,Colon UC,myeloid_inflammation,SPP1,lower_in_responder,lower_in_responder,True,-0.625,0.013120843649851593
+GSE16879,Colon CD,myeloid_inflammation,OSM,lower_in_responder,lower_in_responder,True,-0.9761904761904762,7.938398031277289e-05
+GSE16879,Colon UC,myeloid_inflammation,OSM,lower_in_responder,lower_in_responder,True,-0.625,0.013120843649851593
+GSE16879,Colon CD,myeloid_inflammation,IL1RN,lower_in_responder,lower_in_responder,True,-0.9761904761904762,7.938398031277289e-05
+GSE16879,Colon UC,myeloid_inflammation,IL1RN,lower_in_responder,lower_in_responder,True,-0.640625,0.010744135390790393
+GSE16879,Colon CD,myeloid_inflammation,CCL4,lower_in_responder,lower_in_responder,True,-0.9761904761904762,7.938398031277289e-05
+GSE16879,Colon UC,myeloid_inflammation,CCL4,lower_in_responder,lower_in_responder,True,-0.59375,0.019176826822539572
+GSE16879,Colon CD,myeloid_inflammation,NFKBIA,lower_in_responder,lower_in_responder,True,-0.9761904761904762,7.938398031277289e-05
+GSE16879,Colon UC,myeloid_inflammation,NFKBIA,lower_in_responder,lower_in_responder,True,-0.5625,0.027375654512550463
+GSE16879,Colon CD,epithelial_ifn_damage,ISG15,lower_in_responder,lower_in_responder,True,-0.5476190476190477,0.05564817019925379
+GSE16879,Colon UC,epithelial_ifn_damage,ISG15,lower_in_responder,lower_in_responder,True,-0.609375,0.015905453784037713
+GSE16879,Colon CD,epithelial_ifn_damage,IFIT1,lower_in_responder,lower_in_responder,True,-0.47619047619047616,0.10026196713503215
+GSE16879,Colon UC,epithelial_ifn_damage,IFIT1,lower_in_responder,lower_in_responder,True,-0.484375,0.06074474724360308
+GSE16879,Colon CD,epithelial_ifn_damage,IFIT2,lower_in_responder,lower_in_responder,True,-0.47619047619047616,0.10026196713503215
+GSE16879,Colon UC,epithelial_ifn_damage,IFIT2,lower_in_responder,lower_in_responder,True,-0.5,0.052314775157688065
+GSE16879,Colon CD,epithelial_ifn_damage,IFIT3,lower_in_responder,lower_in_responder,True,-0.5714285714285714,0.04493133285702945
+GSE16879,Colon UC,epithelial_ifn_damage,IFIT3,lower_in_responder,lower_in_responder,True,-0.40625,0.12004008315759561
+GSE16879,Colon CD,epithelial_ifn_damage,IFI6,lower_in_responder,lower_in_responder,True,-0.4523809523809524,0.11983011828213067
+GSE16879,Colon UC,epithelial_ifn_damage,IFI6,lower_in_responder,lower_in_responder,True,-0.5,0.052314775157688065
+GSE16879,Colon CD,epithelial_ifn_damage,MX1,lower_in_responder,lower_in_responder,True,-0.5238095238095238,0.06834960704929745
+GSE16879,Colon UC,epithelial_ifn_damage,MX1,lower_in_responder,lower_in_responder,True,-0.53125,0.038231283082541666
+GSE16879,Colon CD,epithelial_ifn_damage,CXCL10,lower_in_responder,lower_in_responder,True,-0.5,0.0831150273874732
+GSE16879,Colon UC,epithelial_ifn_damage,CXCL10,lower_in_responder,lower_in_responder,True,-0.46875,0.07022982551317455
+GSE16879,Colon CD,epithelial_ifn_damage,HLA-DRA,lower_in_responder,lower_in_responder,True,-0.5714285714285714,0.04493133285702945
+GSE16879,Colon UC,epithelial_ifn_damage,HLA-DRA,lower_in_responder,lower_in_responder,True,-0.515625,0.04482297738456037
+GSE16879,Colon CD,epithelial_ifn_damage,HLA-DRB1,lower_in_responder,lower_in_responder,True,-0.5714285714285714,0.04493133285702945
+GSE16879,Colon UC,epithelial_ifn_damage,HLA-DRB1,lower_in_responder,lower_in_responder,True,-0.546875,0.032428199072431135
+GSE16879,Colon CD,epithelial_barrier_maturity,MUC2,higher_in_responder,higher_in_responder,True,0.4523809523809524,0.11983011828213067
+GSE16879,Colon UC,epithelial_barrier_maturity,MUC2,higher_in_responder,higher_in_responder,True,0.5625,0.027375654512550463
+GSE16879,Colon CD,epithelial_barrier_maturity,TFF3,higher_in_responder,higher_in_responder,True,0.40476190476190477,0.16734143049932523
+GSE16879,Colon UC,epithelial_barrier_maturity,TFF3,higher_in_responder,higher_in_responder,True,0.515625,0.04482297738456037
+GSE16879,Colon CD,epithelial_barrier_maturity,KRT20,higher_in_responder,higher_in_responder,True,0.42857142857142855,0.14221640073033262
+GSE16879,Colon UC,epithelial_barrier_maturity,KRT20,higher_in_responder,higher_in_responder,True,0.53125,0.038231283082541666
+GSE16879,Colon CD,epithelial_barrier_maturity,CA1,higher_in_responder,higher_in_responder,True,0.5,0.0831150273874732
+GSE16879,Colon UC,epithelial_barrier_maturity,CA1,higher_in_responder,higher_in_responder,True,0.484375,0.06074474724360308
+GSE16879,Colon CD,epithelial_barrier_maturity,CA2,higher_in_responder,higher_in_responder,True,0.4523809523809524,0.11983011828213067
+GSE16879,Colon UC,epithelial_barrier_maturity,CA2,higher_in_responder,higher_in_responder,True,0.515625,0.04482297738456037
+GSE16879,Colon CD,epithelial_barrier_maturity,BEST4,higher_in_responder,higher_in_responder,True,0.2857142857142857,0.34023973962054455
+GSE16879,Colon UC,epithelial_barrier_maturity,BEST4,higher_in_responder,higher_in_responder,True,0.5,0.052314775157688065
+GSE16879,Colon CD,epithelial_barrier_maturity,OTOP2,higher_in_responder,higher_in_responder,True,0.5,0.0831150273874732
+GSE16879,Colon UC,epithelial_barrier_maturity,OTOP2,higher_in_responder,higher_in_responder,True,0.609375,0.015905453784037713
+GSE16879,Colon CD,epithelial_barrier_maturity,SLC26A3,higher_in_responder,higher_in_responder,True,0.47619047619047616,0.10026196713503215
+GSE16879,Colon UC,epithelial_barrier_maturity,SLC26A3,higher_in_responder,higher_in_responder,True,0.46875,0.07022982551317455
+GSE16879,Colon CD,stromal_fibroinflammatory,COL1A1,lower_in_responder,lower_in_responder,True,-0.8809523809523809,0.0007541478129713423
+GSE16879,Colon UC,stromal_fibroinflammatory,COL1A1,lower_in_responder,lower_in_responder,True,-0.53125,0.038231283082541666
+GSE16879,Colon CD,stromal_fibroinflammatory,COL3A1,lower_in_responder,lower_in_responder,True,-0.8333333333333334,0.00178613955703739
+GSE16879,Colon UC,stromal_fibroinflammatory,COL3A1,lower_in_responder,lower_in_responder,True,-0.515625,0.04482297738456037
+GSE16879,Colon CD,stromal_fibroinflammatory,DCN,lower_in_responder,lower_in_responder,True,-0.7857142857142857,0.0037310470747003253
+GSE16879,Colon UC,stromal_fibroinflammatory,DCN,lower_in_responder,lower_in_responder,True,-0.515625,0.04482297738456037
+GSE16879,Colon CD,stromal_fibroinflammatory,LUM,lower_in_responder,lower_in_responder,True,-0.8333333333333334,0.00178613955703739
+GSE16879,Colon UC,stromal_fibroinflammatory,LUM,lower_in_responder,lower_in_responder,True,-0.515625,0.04482297738456037
+GSE16879,Colon CD,stromal_fibroinflammatory,CXCL12,lower_in_responder,lower_in_responder,True,-0.8095238095238095,0.002619671350321505
+GSE16879,Colon UC,stromal_fibroinflammatory,CXCL12,lower_in_responder,lower_in_responder,True,-0.53125,0.038231283082541666
+GSE16879,Colon CD,stromal_fibroinflammatory,IL11,lower_in_responder,lower_in_responder,True,-0.7857142857142857,0.0037310470747003253
+GSE16879,Colon UC,stromal_fibroinflammatory,IL11,lower_in_responder,lower_in_responder,True,-0.4375,0.09260188369085934
+GSE16879,Colon CD,stromal_fibroinflammatory,OSMR,lower_in_responder,lower_in_responder,True,-0.7619047619047619,0.00523934270064301
+GSE16879,Colon UC,stromal_fibroinflammatory,OSMR,lower_in_responder,lower_in_responder,True,-0.484375,0.06074474724360308
+GSE16879,Colon CD,stromal_fibroinflammatory,CCL19,lower_in_responder,lower_in_responder,True,-0.7857142857142857,0.0037310470747003253
+GSE16879,Colon UC,stromal_fibroinflammatory,CCL19,lower_in_responder,lower_in_responder,True,-0.578125,0.022970314261201327
+GSE16879,Colon CD,stromal_fibroinflammatory,CXCL13,lower_in_responder,lower_in_responder,True,-0.7857142857142857,0.0037310470747003253
+GSE16879,Colon UC,stromal_fibroinflammatory,CXCL13,lower_in_responder,lower_in_responder,True,-0.53125,0.038231283082541666
+GSE16879,Colon CD,stromal_fibroinflammatory,WNT2B,lower_in_responder,lower_in_responder,True,-0.9285714285714286,0.0002778439310947051
+GSE16879,Colon UC,stromal_fibroinflammatory,WNT2B,lower_in_responder,lower_in_responder,True,-0.5625,0.027375654512550463
+GSE16879,Colon CD,stromal_fibroinflammatory,RSPO3,lower_in_responder,lower_in_responder,True,-0.7619047619047619,0.00523934270064301
+GSE16879,Colon UC,stromal_fibroinflammatory,RSPO3,lower_in_responder,lower_in_responder,True,-0.609375,0.015905453784037713
+GSE23597,UC IFX baseline,myeloid_inflammation,IL1B,lower_in_responder,lower_in_responder,True,-0.5771428571428572,0.02009830485915024
+GSE23597,UC IFX baseline,myeloid_inflammation,TNF,lower_in_responder,lower_in_responder,True,-0.52,0.03818642271089434
+GSE23597,UC IFX baseline,myeloid_inflammation,CXCL8,lower_in_responder,lower_in_responder,True,-0.5885714285714285,0.017509364631166632
+GSE23597,UC IFX baseline,myeloid_inflammation,SPP1,lower_in_responder,lower_in_responder,True,-0.5542857142857143,0.026223344076514263
+GSE23597,UC IFX baseline,myeloid_inflammation,OSM,lower_in_responder,lower_in_responder,True,-0.5657142857142857,0.022995041974463552
+GSE23597,UC IFX baseline,myeloid_inflammation,IL1RN,lower_in_responder,lower_in_responder,True,-0.5885714285714285,0.017509364631166632
+GSE23597,UC IFX baseline,myeloid_inflammation,CCL4,lower_in_responder,lower_in_responder,True,-0.5771428571428572,0.02009830485915024
+GSE23597,UC IFX baseline,myeloid_inflammation,NFKBIA,lower_in_responder,lower_in_responder,True,-0.6114285714285714,0.013150889402279835
+GSE23597,UC IFX baseline,epithelial_ifn_damage,ISG15,lower_in_responder,lower_in_responder,True,-0.6,0.015200293773708677
+GSE23597,UC IFX baseline,epithelial_ifn_damage,IFIT1,lower_in_responder,lower_in_responder,True,-0.5085714285714286,0.04302857876272781
+GSE23597,UC IFX baseline,epithelial_ifn_damage,IFIT2,lower_in_responder,lower_in_responder,True,-0.5314285714285715,0.03378991852295522
+GSE23597,UC IFX baseline,epithelial_ifn_damage,IFIT3,lower_in_responder,lower_in_responder,True,-0.5428571428571428,0.02981351549204719
+GSE23597,UC IFX baseline,epithelial_ifn_damage,IFI6,lower_in_responder,lower_in_responder,True,-0.5314285714285715,0.03378991852295522
+GSE23597,UC IFX baseline,epithelial_ifn_damage,MX1,lower_in_responder,lower_in_responder,True,-0.5657142857142857,0.022995041974463552
+GSE23597,UC IFX baseline,epithelial_ifn_damage,CXCL10,lower_in_responder,lower_in_responder,True,-0.6,0.015200293773708677
+GSE23597,UC IFX baseline,epithelial_ifn_damage,HLA-DRA,lower_in_responder,lower_in_responder,True,-0.5657142857142857,0.022995041974463552
+GSE23597,UC IFX baseline,epithelial_ifn_damage,HLA-DRB1,lower_in_responder,lower_in_responder,True,-0.5657142857142857,0.022995041974463552
+GSE23597,UC IFX baseline,epithelial_barrier_maturity,MUC2,higher_in_responder,lower_in_responder,False,0.13142857142857142,0.6235929285150642
+GSE23597,UC IFX baseline,epithelial_barrier_maturity,TFF3,higher_in_responder,lower_in_responder,False,0.10857142857142857,0.6882065067548939
+GSE23597,UC IFX baseline,epithelial_barrier_maturity,KRT20,higher_in_responder,higher_in_responder,True,0.22285714285714286,0.3948802325470846
+GSE23597,UC IFX baseline,epithelial_barrier_maturity,CA1,higher_in_responder,higher_in_responder,True,0.14285714285714285,0.5922570662559539
+GSE23597,UC IFX baseline,epithelial_barrier_maturity,CA2,higher_in_responder,higher_in_responder,True,0.12,0.6555913265451642
+GSE23597,UC IFX baseline,epithelial_barrier_maturity,BEST4,higher_in_responder,higher_in_responder,True,0.10857142857142857,0.6882065067548939
+GSE23597,UC IFX baseline,epithelial_barrier_maturity,OTOP2,higher_in_responder,higher_in_responder,True,0.21142857142857144,0.42049451907627655
+GSE23597,UC IFX baseline,epithelial_barrier_maturity,SLC26A3,higher_in_responder,higher_in_responder,True,0.18857142857142858,0.474416612000038
+GSE23597,UC IFX baseline,stromal_fibroinflammatory,COL1A1,lower_in_responder,lower_in_responder,True,-0.46285714285714286,0.06750259072283543
+GSE23597,UC IFX baseline,stromal_fibroinflammatory,COL3A1,lower_in_responder,lower_in_responder,True,-0.46285714285714286,0.06750259072283543
+GSE23597,UC IFX baseline,stromal_fibroinflammatory,DCN,lower_in_responder,lower_in_responder,True,-0.41714285714285715,0.10167695825371019
+GSE23597,UC IFX baseline,stromal_fibroinflammatory,LUM,lower_in_responder,lower_in_responder,True,-0.38285714285714284,0.13488336993620642
+GSE23597,UC IFX baseline,stromal_fibroinflammatory,CXCL12,lower_in_responder,lower_in_responder,True,-0.41714285714285715,0.10167695825371019
+GSE23597,UC IFX baseline,stromal_fibroinflammatory,IL11,lower_in_responder,lower_in_responder,True,-0.3942857142857143,0.12303259557152771
+GSE23597,UC IFX baseline,stromal_fibroinflammatory,OSMR,lower_in_responder,lower_in_responder,True,-0.38285714285714284,0.13488336993620642
+GSE23597,UC IFX baseline,stromal_fibroinflammatory,CCL19,lower_in_responder,lower_in_responder,True,-0.37142857142857144,0.1475493901105692
+GSE23597,UC IFX baseline,stromal_fibroinflammatory,CXCL13,lower_in_responder,lower_in_responder,True,-0.36,0.1610597720163905
+GSE23597,UC IFX baseline,stromal_fibroinflammatory,WNT2B,lower_in_responder,lower_in_responder,True,-0.3942857142857143,0.12303259557152771
+GSE23597,UC IFX baseline,stromal_fibroinflammatory,RSPO3,lower_in_responder,lower_in_responder,True,-0.3942857142857143,0.12303259557152771
