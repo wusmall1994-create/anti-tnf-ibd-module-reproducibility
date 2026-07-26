@@ -1,0 +1,44 @@
+{
+  "zscore_stats": "results/bulk_validation/bulk_module_zscore_sensitivity_stats.csv",
+  "leave_one_gene_out_audit": "results/bulk_validation/bulk_module_leave_one_gene_out_direction_audit.csv",
+  "zscore_direction_summary": {
+    "lower_in_responder": {
+      "epithelial_barrier_maturity": 0,
+      "epithelial_ifn_damage": 3,
+      "myeloid_inflammation": 3,
+      "stromal_fibroinflammatory": 3
+    },
+    "higher_in_responder": {
+      "epithelial_barrier_maturity": 3,
+      "epithelial_ifn_damage": 0,
+      "myeloid_inflammation": 0,
+      "stromal_fibroinflammatory": 0
+    }
+  },
+  "leave_one_gene_out_summary": [
+    {
+      "module": "epithelial_barrier_maturity",
+      "n_leave_one_gene_tests": 24,
+      "n_direction_mismatches": 2,
+      "direction_match_rate": 0.9166666666666666
+    },
+    {
+      "module": "epithelial_ifn_damage",
+      "n_leave_one_gene_tests": 27,
+      "n_direction_mismatches": 0,
+      "direction_match_rate": 1.0
+    },
+    {
+      "module": "myeloid_inflammation",
+      "n_leave_one_gene_tests": 24,
+      "n_direction_mismatches": 0,
+      "direction_match_rate": 1.0
+    },
+    {
+      "module": "stromal_fibroinflammatory",
+      "n_leave_one_gene_tests": 33,
+      "n_direction_mismatches": 0,
+      "direction_match_rate": 1.0
+    }
+  ]
+}
