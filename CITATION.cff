@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this code or derived tables, please cite the associated manuscript and public source datasets."
+message: "If you use this code or derived tables, please cite this archived software release, the associated manuscript and the public source datasets."
 title: "Interpretable public-data validation of pretreatment mucosal modules associated with anti-TNF outcomes in inflammatory bowel disease"
 type: software
 authors:
@@ -19,8 +19,10 @@ authors:
     given-names: "Fengxiang"
     affiliation: "Department of Gastroenterology, Longyan First Affiliated Hospital of Fujian Medical University"
 repository-code: "https://github.com/wusmall1994-create/anti-tnf-ibd-module-reproducibility"
-version: "v1.0.0-submission"
-date-released: "2026-07-26"
+url: "https://doi.org/10.5281/zenodo.21676792"
+doi: "10.5281/zenodo.21676792"
+version: "1.0.0"
+date-released: "2026-07-29"
 abstract: "Code and derived outputs for a public-database transcriptomic module-analysis study of pretreatment mucosal signatures associated with anti-TNF outcomes in inflammatory bowel disease."
 keywords:
   - inflammatory bowel disease

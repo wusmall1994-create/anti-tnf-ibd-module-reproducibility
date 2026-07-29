@@ -1,5 +1,7 @@
 # Interpretable anti-TNF IBD mucosal module analysis
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21676792.svg)](https://doi.org/10.5281/zenodo.21676792)
+
 This repository contains cleaned code, selected derived result tables, and figure exports for a public-database transcriptomic analysis of pretreatment mucosal modules associated with anti-TNF outcomes in inflammatory bowel disease.
 
 It is a scientific reproducibility repository, not the journal-administration package. Manuscript Word files, cover letters, submission forms, response letters, and local packaging/audit administration files are intentionally excluded.
@@ -51,6 +53,14 @@ The workflow was run using Python 3.12.13. Install packages from:
 ```bash
 pip install -r requirements_reproducibility.txt
 ```
+
+## Citation
+
+The exact software release used for the manuscript is archived in Zenodo:
+
+> Liang H, Wu X, Su X, Qiu R, Zheng F. *Interpretable public-data validation of pretreatment mucosal modules associated with anti-TNF outcomes in inflammatory bowel disease*. Version 1.0.0 [software]. Zenodo. 2026. https://doi.org/10.5281/zenodo.21676792
+
+The version-specific DOI should be used when citing the analysis code. Release `v1.0.0` corresponds to commit `49cbf3fdc8436d5f96d3f7c3d6d567f88a26ce96`.
 
 ## Scientific boundary
 
