@@ -4,7 +4,6 @@
 
 This repository contains cleaned code, selected derived result tables, and figure exports for a public-database transcriptomic analysis of pretreatment mucosal modules associated with anti-TNF outcomes in inflammatory bowel disease.
 
-It is a scientific reproducibility repository, not the journal-administration package. Manuscript Word files, cover letters, submission forms, response letters, and local packaging/audit administration files are intentionally excluded.
 
 ## Contents
 
