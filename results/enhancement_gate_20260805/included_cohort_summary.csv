@@ -1,0 +1,7 @@
+cohort,stratum,n,n_responder,n_non_responder,tissue,disease,baseline_activity_available,activity_variable
+GSE16879,GSE16879_CD_colon,19,12,7,Colon,CD,False,not in public sample metadata
+GSE16879,GSE16879_UC_colon,24,8,16,Colon,UC,False,not in public sample metadata
+GSE23597,GSE23597_UC_colon,32,25,7,Colon,UC,False,not in public sample metadata
+GSE92415,GSE92415_UC_colon,59,32,27,Colon,Ulcerative Colitis (UC),True,Total Mayo score
+E-MTAB-7604,E-MTAB-7604_IBD_colon,27,10,17,Colon,IBD,False,not in public sample metadata
+E-MTAB-7604,E-MTAB-7604_IBD_ileum,17,9,8,Ileum,IBD,False,not in public sample metadata

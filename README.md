@@ -13,6 +13,7 @@ This repository includes:
 - reproducibility documentation under `docs/`
 - selected derived CSV/JSON result tables under `results/`
 - figure-generation scripts under `scripts/` (`plot_*.py` regenerate all manuscript PNG/SVG figures from the derived tables; binary figure exports are kept out of this lightweight repository)
+- cross-cohort enhancement scripts and machine-readable outputs (see the 2026-08-05 update below)
 - Python package requirements in `requirements_reproducibility.txt`
 - citation/license/deposition metadata templates
 
@@ -24,6 +25,8 @@ The supplementary Excel workbook is handled as a journal supplementary file rath
 - GSE16879: mucosal expression profiling before and after first infliximab treatment.
 - GSE23597: colonic biopsy expression data from infliximab-treated ulcerative colitis patients.
 - GSE14580: ulcerative colitis infliximab response dataset retained as an overlap audit.
+- GSE92415: mucosal transcriptomes from anti-TNF-treated ulcerative colitis with baseline Mayo covariates.
+- E-MTAB-7604: mucosal transcriptomes from anti-TNF-treated IBD with tissue-site and drug covariates.
 
 The large TAURUS GEO processed archive is not included. It should be downloaded from public GEO accession GSE282122:
 
@@ -44,6 +47,8 @@ Core manuscript-supporting outputs include:
 - `results/bulk_validation/bulk_validation_enhanced_module_summary.csv`
 - `results/bulk_validation/bulk_module_score_sensitivity_summary.json`
 - `results/recovery/geo_10x_full_siteaware_gate_decision.json`
+- `results/enhancement_gate_20260805/random_effects_meta_analysis.csv`
+- `results/enhancement_gate_20260805/ENHANCEMENT_GATE_REPORT.md`
 
 ## Environment
 
@@ -52,6 +57,8 @@ The workflow was run using Python 3.12.13. Install packages from:
 ```bash
 pip install -r requirements_reproducibility.txt
 ```
+
+Meta-analysis figures are generated in R by `scripts/plot_enhancement_*.R`.
 
 ## Citation
 
@@ -90,3 +97,18 @@ Annotated lineage-level TAURUS H5AD objects were obtained from Zenodo record
 
 Baseline lineage analyses use pretreatment samples with inflammation score > 6.5,
 following the TAURUS authors' guidance.
+
+## Cross-cohort enhancement update (2026-08-05)
+
+This update adds the analyses used in the current manuscript:
+
+- `scripts/run_enhancement_gate.py`: independent-cohort auditing, cohort-level
+  effect estimation, REML random-effects meta-analysis with Hartung-Knapp
+  intervals, covariate-adjusted models (baseline Mayo score and age in GSE92415;
+  tissue site and anti-TNF drug in E-MTAB-7604), and quantitative benchmarking
+  against the Arijs five-gene, West OSM22, and OSM/OSMR signatures;
+- `scripts/plot_enhancement_meta_forest.R`: cross-cohort forest plots;
+- `scripts/plot_enhancement_workflow.R`: updated analysis workflow;
+- `results/enhancement_gate_20260805/`: machine-readable derived tables and
+  source data, without raw expression matrices or binary figure exports;
+- `docs/enhancement_gate_report_2026-08-05.md`: narrative analysis report.

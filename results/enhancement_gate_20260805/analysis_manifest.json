@@ -1,0 +1,57 @@
+{
+  "analysis_date": "2026-08-05",
+  "effect_measure": "Hedges g, responder minus non-responder, from within-stratum gene-z-score module means",
+  "meta_method": "REML random effects; Hartung-Knapp 95% CI; Q and I2 heterogeneity",
+  "activity_adjustment": "GSE92415 logistic regression adjusted for baseline total Mayo score and age",
+  "site_adjustment": "E-MTAB-7604 logistic regression adjusted for ileum/colon and anti-TNF agent; colon-only meta-analysis sensitivity",
+  "published_signatures": {
+    "Arijs_2009_top5": [
+      "TNFRSF11B",
+      "STC1",
+      "PTGS2",
+      "IL13RA2",
+      "IL11"
+    ],
+    "West_2017_OSM22": [
+      "OSM",
+      "IL1B",
+      "IL1A",
+      "IL6",
+      "IL11",
+      "CSF2",
+      "CSF3",
+      "IFNG",
+      "IL17A",
+      "IL22",
+      "CXCL1",
+      "CXCL2",
+      "CXCL3",
+      "CXCL5",
+      "CXCL6",
+      "CXCL8",
+      "CCL2",
+      "CCL3",
+      "CCL4",
+      "CXCL9",
+      "CXCL10",
+      "CXCL11"
+    ],
+    "West_2017_OSM_OSMR": [
+      "OSM",
+      "OSMR"
+    ]
+  },
+  "outputs": [
+    "E-MTAB-7604_paired_auc_comparisons.csv",
+    "E-MTAB-7604_tissue_treatment_adjusted_models.csv",
+    "GSE92415_disease_activity_adjusted_models.csv",
+    "GSE92415_paired_auc_comparisons.csv",
+    "candidate_dataset_audit.csv",
+    "covariate_availability_audit.csv",
+    "cross_cohort_signature_effects.csv",
+    "included_cohort_summary.csv",
+    "module_vs_published_signature_overlap.csv",
+    "random_effects_meta_analysis.csv",
+    "signature_gene_availability.csv"
+  ]
+}

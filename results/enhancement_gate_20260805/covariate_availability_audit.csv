@@ -1,0 +1,6 @@
+cohort,baseline_disease_activity,age,tissue_site,disease_subtype,drug,adjustment_or_control
+GSE92415,total Mayo score available,available,colon,UC,golimumab,"Logistic regression adjusted for Mayo score and age"
+E-MTAB-7604,not available in public sample metadata,not available,colon or ileum,IBD,infliximab or adalimumab,"Tissue-stratified effects; logistic regression adjusted for tissue and drug; colon-only meta-analysis sensitivity"
+GSE16879,not available in GEO series metadata,not available,colon or ileum,UC/CD,infliximab,"Primary analysis restricted to pretreatment colon; UC and colonic CD kept as separate strata before study-level pooling"
+GSE23597,not available in GEO series metadata,not available,colon,UC,infliximab,"Restricted to active-dose pretreatment samples with adjudicated week-8 response"
+GSE282122 / TAURUS,inflammation score available in annotated objects,limited,colon/ileum,UC/CD,anti-TNF,"Existing lineage analysis restricted by inflammation score and evaluated by lineage/tissue context"
