@@ -1,0 +1,62 @@
+{
+  "analysis_date": "2026-08-14",
+  "anti_tnf_cohorts": [
+    "GSE16879",
+    "GSE23597",
+    "GSE92415",
+    "E-MTAB-7604"
+  ],
+  "benchmark_signatures": [
+    "Gaujoux_UC_A_20",
+    "Gaujoux_UC_B_20",
+    "Gaujoux_UC_B_knn_19",
+    "Gaujoux_IRRAT_29",
+    "Gaujoux_UC_AB_53",
+    "Gaujoux_CDc_20",
+    "West_OSM22",
+    "Belarif_IL7R_10"
+  ],
+  "boundary_datasets_completed": [
+    "GSE73661_VDZ",
+    "GSE206285_UST"
+  ],
+  "GSE206285_status": "complete",
+  "outputs": [
+    "E-MTAB-7604_TAURUS_partial_reference_top25.csv",
+    "E-MTAB-7604_TAURUS_partial_reference_top50.csv",
+    "GSE16879_TAURUS_partial_reference_top25.csv",
+    "GSE16879_TAURUS_partial_reference_top50.csv",
+    "GSE23597_TAURUS_partial_reference_top25.csv",
+    "GSE23597_TAURUS_partial_reference_top50.csv",
+    "GSE92415_TAURUS_partial_reference_top25.csv",
+    "GSE92415_TAURUS_partial_reference_top50.csv",
+    "GSE92415_decision_curve.csv",
+    "GSE92415_incremental_model_cv_folds.csv",
+    "GSE92415_incremental_model_oof_predictions.csv",
+    "GSE92415_incremental_model_summary.csv",
+    "GSE92415_incremental_reclassification.csv",
+    "TAURUS_deconvolution_manifest.json",
+    "TAURUS_deconvolution_marker_availability.csv",
+    "TAURUS_deconvolution_outcome_associations.csv",
+    "TAURUS_myeloid_module_composition_adjustment.csv",
+    "TAURUS_partial_reference_logCPM.csv",
+    "TAURUS_reference_markers_top25.csv",
+    "TAURUS_reference_markers_top50.csv",
+    "TAURUS_reference_state_cell_counts.csv",
+    "TAURUS_synthetic_validation_top25.csv",
+    "TAURUS_synthetic_validation_top50.csv",
+    "benchmark_evidence_grades.csv",
+    "benchmark_leave_one_cohort_out.csv",
+    "benchmark_meta_analysis.csv",
+    "benchmark_signature_gene_availability.csv",
+    "benchmark_signature_registry.csv",
+    "benchmark_stratum_effects.csv",
+    "benchmark_study_level_effects.csv",
+    "cross_treatment_boundary_effects.csv",
+    "cross_treatment_signature_availability.csv",
+    "dataset_expression_fingerprint_matches.csv",
+    "dataset_independence_evidence_register.csv",
+    "module_disease_tissue_drug_strata.csv",
+    "upgrade_manifest.json"
+  ]
+}

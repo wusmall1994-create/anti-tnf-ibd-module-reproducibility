@@ -1,0 +1,10 @@
+dataset,therapy_class,compartment,role,independence_rationale,source_file,sha256
+GSE16879,anti-TNF,pretreatment mucosa,include,independent primary cohort,data/bulk_geo/GSE16879_series_matrix.txt.gz,8874d0d40217c3b92c44cead29bf15a0b157e45f62825c95b3c5183c0f513602
+GSE23597,anti-TNF,pretreatment mucosa,include,independent primary cohort,data/bulk_geo/GSE23597_series_matrix.txt.gz,d36fe4df1b6903c2be9de761a66deb92598cce84105d26be48e956ea5a26ce50
+GSE92415,anti-TNF,pretreatment mucosa,include,independent trial cohort,data/bulk_geo/GSE92415_series_matrix.txt.gz,61cd218f97a47c94902fc4094284424041203f7c809447bf45aae321749c8bf1
+E-MTAB-7604,anti-TNF,pretreatment mucosa,include,independent RNA-seq cohort,E-MTAB-7604 raw counts/SDRF,not_local_or_incomplete
+GSE14580,anti-TNF,pretreatment mucosa,exclude,UC subset represented in GSE16879,data/bulk_geo/GSE14580_series_matrix.txt.gz,7905a62ee3029e862b10d3cfe7e22141c361bd2b868e6969c2940981d448b369
+GSE12251,anti-TNF,pretreatment mucosa,exclude,expression-level subset of GSE23597,data/bulk_geo/GSE12251_series_matrix.txt.gz,2c750c3504fa500a1a1d0da382eb82e1fb4e09f645e370cbb247b66a19ffc367
+GSE73661_IFX,anti-TNF,pretreatment mucosa,exclude,independence from earlier Leuven IFX series not established,data/bulk_geo/GSE73661_series_matrix.txt.gz,3e988a71e35c69bfdc3dcaabb96554acf9e644d4ab7140ed770a958b2185437d
+GSE73661_VDZ,anti-integrin,pretreatment mucosa,boundary,distinct vedolizumab trial population,data/bulk_geo/GSE73661_series_matrix.txt.gz,3e988a71e35c69bfdc3dcaabb96554acf9e644d4ab7140ed770a958b2185437d
+GSE206285_UST,anti-IL12/23,pretreatment mucosa,boundary,distinct UNIFI trial population,data/bulk_geo/GSE206285_series_matrix.txt.gz,a1d11a5234712e813f5c4f1eb3bdb6695f5c99283610f7ee31ad7552bd3b3f82

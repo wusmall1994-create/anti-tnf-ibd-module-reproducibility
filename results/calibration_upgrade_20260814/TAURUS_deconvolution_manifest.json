@@ -1,0 +1,53 @@
+{
+  "reference_scope": "TAURUS pretreatment, inflamed, inflammation score >6.5; partial five-state reference",
+  "states": [
+    "resident_like_macrophage",
+    "inflammatory_monocyte",
+    "other_myeloid",
+    "stroma",
+    "colonic_epithelium"
+  ],
+  "target_signatures_excluded_from_marker_selection": [
+    "myeloid_inflammation",
+    "epithelial_ifn_damage",
+    "epithelial_barrier_maturity",
+    "stromal_fibroinflammatory",
+    "Gaujoux_UC_A_20",
+    "Gaujoux_UC_B_20",
+    "Gaujoux_UC_B_knn_19",
+    "Gaujoux_IRRAT_29",
+    "Gaujoux_UC_AB_53",
+    "Gaujoux_CDc_20",
+    "West_OSM22",
+    "Belarif_IL7R_10"
+  ],
+  "primary_marker_set": "top50_per_state",
+  "sensitivity_marker_set": "top25_per_state",
+  "cell_counts": [
+    {
+      "state": "resident_like_macrophage",
+      "n_cells": 1647,
+      "source_object": "myeloid"
+    },
+    {
+      "state": "inflammatory_monocyte",
+      "n_cells": 2875,
+      "source_object": "myeloid"
+    },
+    {
+      "state": "other_myeloid",
+      "n_cells": 5795,
+      "source_object": "myeloid"
+    },
+    {
+      "state": "stroma",
+      "n_cells": 20715,
+      "source_object": "stroma"
+    },
+    {
+      "state": "colonic_epithelium",
+      "n_cells": 22744,
+      "source_object": "epithelium"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+signature,n_external_cohorts,external_direction_consistency,evidence_grade
+Belarif_IL7R_10,2,1.0,limited_external_evidence
+Gaujoux_CDc_20,3,1.0,directionally_consistent
+Gaujoux_IRRAT_29,3,1.0,directionally_consistent
+Gaujoux_UC_AB_53,2,1.0,limited_external_evidence
+Gaujoux_UC_A_20,3,1.0,directionally_consistent
+Gaujoux_UC_B_20,3,1.0,directionally_consistent
+Gaujoux_UC_B_knn_19,3,1.0,directionally_consistent
+West_OSM22,4,1.0,directionally_consistent
+epithelial_barrier_maturity,4,1.0,robust_cross_cohort
+epithelial_ifn_damage,4,1.0,directionally_consistent
+myeloid_inflammation,4,1.0,robust_cross_cohort
+stromal_fibroinflammatory,4,1.0,directionally_consistent

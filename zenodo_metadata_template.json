@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "title": "Interpretable public-data validation of pretreatment mucosal modules associated with anti-TNF outcomes in inflammatory bowel disease",
+    "title": "Analysis code and derived outputs for cross-cohort calibration of pretreatment mucosal modules in inflammatory bowel disease",
     "upload_type": "software",
-    "description": "Code and derived outputs for a public-database transcriptomic module-analysis study of pretreatment mucosal signatures associated with anti-TNF outcomes in inflammatory bowel disease. The archive includes analysis scripts, reproducibility documentation, selected derived result tables, figure outputs and supplementary tables. Large public raw archives are not included and should be obtained from the cited GEO/Zenodo source datasets.",
+    "description": "Version 2.0.0 contains code, documentation and derived outputs for dataset-independence auditing, unified published-signature benchmarking, leave-one-cohort-out and stratified meta-analysis, GSE92415 clinical-increment modelling, TAURUS-referenced partial deconvolution and vedolizumab/ustekinumab treatment-boundary analysis. Public raw archives and manuscript submission files are not included.",
     "creators": [
       {
         "name": "Liang, Huadong",
@@ -25,7 +25,7 @@
         "affiliation": "Department of Gastroenterology, Longyan First Affiliated Hospital of Fujian Medical University"
       }
     ],
-    "version": "v1.0.0-submission",
+    "version": "v2.0.0",
     "keywords": [
       "inflammatory bowel disease",
       "anti-TNF",
@@ -62,6 +62,26 @@
       },
       {
         "identifier": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE14580",
+        "relation": "isSupplementTo",
+        "resource_type": "dataset"
+      },
+      {
+        "identifier": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE92415",
+        "relation": "isSupplementTo",
+        "resource_type": "dataset"
+      },
+      {
+        "identifier": "https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-MTAB-7604",
+        "relation": "isSupplementTo",
+        "resource_type": "dataset"
+      },
+      {
+        "identifier": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE73661",
+        "relation": "isSupplementTo",
+        "resource_type": "dataset"
+      },
+      {
+        "identifier": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE206285",
         "relation": "isSupplementTo",
         "resource_type": "dataset"
       }

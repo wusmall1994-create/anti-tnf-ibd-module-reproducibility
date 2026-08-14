@@ -1,0 +1,6 @@
+state,n_cells,source_object
+resident_like_macrophage,1647,myeloid
+inflammatory_monocyte,2875,myeloid
+other_myeloid,5795,myeloid
+stroma,20715,stroma
+colonic_epithelium,22744,epithelium

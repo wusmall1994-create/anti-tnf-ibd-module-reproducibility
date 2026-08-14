@@ -1,6 +1,6 @@
 cff-version: 1.2.0
-message: "If you use this code or derived tables, please cite this archived software release, the associated manuscript and the public source datasets."
-title: "Interpretable public-data validation of pretreatment mucosal modules associated with anti-TNF outcomes in inflammatory bowel disease"
+message: "If you use this code or derived tables, please cite the associated manuscript and public source datasets."
+title: "Analysis code and derived outputs for cross-cohort calibration of pretreatment mucosal modules in inflammatory bowel disease"
 type: software
 authors:
   - family-names: "Liang"
@@ -19,11 +19,9 @@ authors:
     given-names: "Fengxiang"
     affiliation: "Department of Gastroenterology, Longyan First Affiliated Hospital of Fujian Medical University"
 repository-code: "https://github.com/wusmall1994-create/anti-tnf-ibd-module-reproducibility"
-url: "https://doi.org/10.5281/zenodo.21676792"
-doi: "10.5281/zenodo.21676792"
-version: "1.0.0"
-date-released: "2026-07-29"
-abstract: "Code and derived outputs for a public-database transcriptomic module-analysis study of pretreatment mucosal signatures associated with anti-TNF outcomes in inflammatory bowel disease."
+version: "v2.0.0"
+date-released: "2026-08-14"
+abstract: "Code, documentation and derived outputs for cohort-independence auditing, unified signature benchmarking, leave-one-cohort-out and stratified meta-analysis, clinical-increment modelling, TAURUS-referenced deconvolution and treatment-boundary analysis."
 keywords:
   - inflammatory bowel disease
   - anti-TNF
