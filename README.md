@@ -1,5 +1,7 @@
 # Cross-cohort calibration of pretreatment mucosal modules in IBD
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21934771.svg)](https://doi.org/10.5281/zenodo.21934771)
+
 This repository contains the analysis code, reproducibility documentation and
 selected derived outputs supporting a public-data transcriptomic study of
 pretreatment mucosal states associated with biologic response in inflammatory
@@ -95,3 +97,7 @@ and institutional affiliations appear only in citation and repository metadata.
 Code is released under the MIT License. Cite the software using `CITATION.cff`
 and cite the original public datasets and publications listed in the repository
 documentation.
+
+The archived v2.0.0 release is available at
+https://doi.org/10.5281/zenodo.21934771. The concept DOI
+https://doi.org/10.5281/zenodo.21676791 resolves to the latest archived version.

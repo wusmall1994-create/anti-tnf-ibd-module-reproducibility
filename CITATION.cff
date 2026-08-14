@@ -19,6 +19,8 @@ authors:
     given-names: "Fengxiang"
     affiliation: "Department of Gastroenterology, Longyan First Affiliated Hospital of Fujian Medical University"
 repository-code: "https://github.com/wusmall1994-create/anti-tnf-ibd-module-reproducibility"
+url: "https://doi.org/10.5281/zenodo.21934771"
+doi: "10.5281/zenodo.21934771"
 version: "v2.0.0"
 date-released: "2026-08-14"
 abstract: "Code, documentation and derived outputs for cohort-independence auditing, unified signature benchmarking, leave-one-cohort-out and stratified meta-analysis, clinical-increment modelling, TAURUS-referenced deconvolution and treatment-boundary analysis."
