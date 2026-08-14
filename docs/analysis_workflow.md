@@ -1,45 +1,45 @@
 # Reproducible workflow
 
-This document tracks the actual workflow for the public-database IBD anti-TNF project.
+This document tracks the actual workflow for the public-database IBD anti-TNF project.This document tracks the actual workflow for the public-database IBD anti-TNF project.
 
 ## 0. Environment
 
-Use a local project virtual environment:
+Use a local project virtual environment:Use a local project virtual environment:
 
-```powershell
+```powershellpowershellpowershellpowershell
 .\.venv\Scripts\python.exe
 ```
 
-Primary packages:
+Primary packages:Primary packages:
 
-- pandas
-- numpy
-- scipy
-- h5py
-- anndata
+- pandas pandas pandas pandas
+- numpy numpy numpy numpy
+- scipy scipy scipy scipy
+- h5py h5py h5py h5py
+- anndata anndata anndata anndata
 
 ## 1. Metadata gate
 
-```powershell
+```powershellpowershellpowershellpowershell
 .\.venv\Scripts\python.exe scripts\parse_gse282122_soft.py
 ```
 
-Outputs:
+Outputs:Outputs:
 
 - `results/feasibility/GSE282122_sample_metadata.csv`
 
 ## 2. Outcome gate
 
-Outcome labels are obtained from:
+Outcome labels are obtained from:Outcome labels are obtained from:
 
-- `data/metadata/paired_sample_list.csv` (TAURUS Zenodo record 10.5281/zenodo.14007626)
+- `data/metadata/paired_sample_list.csv` (TAURUS Zenodo record 10.5281/zenodo.14007626) (TAURUS Zenodo record 10.5281/zenodo.14007626) (TAURUS Zenodo record 10.5281/zenodo.14007626) (TAURUS Zenodo record 10.5281/zenodo.14007626) (TAURUS Zenodo record 10.5281/zenodo.14007626) (TAURUS Zenodo record 10.5281/zenodo.14007626) (TAURUS Zenodo record 10.5281/zenodo.14007626) (TAURUS Zenodo record 10.5281/zenodo.14007626) (TAURUS Zenodo record 10.5281/zenodo.14007626) (TAURUS Zenodo record 10.5281/zenodo.14007626) (TAURUS Zenodo record 10.5281/zenodo.14007626) (TAURUS Zenodo record 10.5281/zenodo.14007626) (TAURUS Zenodo record 10.5281/zenodo.14007626) (TAURUS Zenodo record 10.5281/zenodo.14007626) (TAURUS Zenodo record 10.5281/zenodo.14007626) (TAURUS Zenodo record 10.5281/zenodo.14007626) (TAURUS Zenodo record 10.5281/zenodo.14007626) (TAURUS Zenodo record 10.5281/zenodo.14007626) (TAURUS Zenodo record 10.5281/zenodo.14007626) (TAURUS Zenodo record 10.5281/zenodo.14007626) (TAURUS Zenodo record 10.5281/zenodo.14007626) (TAURUS Zenodo record 10.5281/zenodo.14007626) (TAURUS Zenodo record 10.5281/zenodo.14007626) (TAURUS Zenodo record 10.5281/zenodo.14007626) (TAURUS Zenodo record 10.5281/zenodo.14007626) (TAURUS Zenodo record 10.5281/zenodo.14007626) (TAURUS Zenodo record 10.5281/zenodo.14007626) (TAURUS Zenodo record 10.5281/zenodo.14007626) (TAURUS Zenodo record 10.5281/zenodo.14007626) (TAURUS Zenodo record 10.5281/zenodo.14007626) (TAURUS Zenodo record 10.5281/zenodo.14007626) (TAURUS Zenodo record 10.5281/zenodo.14007626)
 
-Current outcome-linked patient counts:
+Current outcome-linked patient counts:Current outcome-linked patient counts:
 
-- UC remission: 4
-- UC non-remission: 13
-- CD remission: 10
-- CD non-remission: 5
+- UC remission: 4 UC remission: 4 UC remission: 4 UC remission: 4
+- UC non-remission: 13 UC non-remission: 13 UC non-remission: 13 UC non-remission: 13
+- CD remission: 10 CD remission: 10 CD remission: 10 CD remission: 10
+- CD non-remission: 5 CD non-remission: 5 CD non-remission: 5 CD non-remission: 5
 
 ## 3. UMAP coverage gate
 
@@ -168,12 +168,3 @@ Outputs under `results/taurus_lineage/`:
 
 Baseline analyses use pretreatment samples with inflammation score > 6.5, following the TAURUS authors' guidance. Patients are the statistical unit (scores aggregated sample -> patient).
 
-## 10. Manuscript go/no-go
-
-Proceed if the expression-level gate shows one of:
-
-1. remission patients recover toward healthy more strongly than non-remission patients;
-2. non-remission patients show stronger cross-lineage desynchrony;
-3. signals are biologically coherent and not dominated by batch/site.
-
-Pivot if results only reproduce TAURUS differential expression without adding patient-level recovery/synchrony insight.
